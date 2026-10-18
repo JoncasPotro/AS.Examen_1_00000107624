@@ -1,0 +1,7 @@
+com\mycompany\generadorconstanciasmvc\App.class
+controlador\AlumnoController.class
+modelo\AlumnoDAO.class
+vista\VentanaConstancias.class
+modelo\Conexion.class
+controlador\AlumnoController$1.class
+modelo\Alumno.class
